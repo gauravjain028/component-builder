@@ -135,6 +135,8 @@
 				    <token key="reationDate" 		value="${com.creationDate}" />
 				    <token key="license" 			value="${com.license}" />
 				    <token key="description" 		value="${com.description}" />
+				    <token key="build.version" 		value="${com.build.version}" />
+				    <token key="creationDate" 		value="${com.creationDate}" />
 				</replacetokens>
 			</filterchain>
 		</reflexive>

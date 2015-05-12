@@ -5,7 +5,7 @@
 * @license		GNU/GPL, see LICENSE.php
 * @package 		@prefix_constant@
 * @subpackage	Back-end
-* @contact		team@readybytes.in
+* @contact		@authorEmail@
 */
 
 // no direct access
@@ -14,7 +14,7 @@ if(!defined( '_JEXEC' )){
 }
 
 /** 
- * @entity@ Html View
+ * @entity@ Ajax View
 * @author @author@
  */
 require_once dirname(__FILE__).'/view.php';

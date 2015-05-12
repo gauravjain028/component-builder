@@ -3,7 +3,7 @@
 * @license		GNU/GPL, see LICENSE.php
 * @package		@prefix_constant@
 * @subpackage	Javascript
-* @contact 		team@readybytes.in
+* @contact 		@authorEmail@
 */
 
 if (typeof(@name@)=='undefined'){

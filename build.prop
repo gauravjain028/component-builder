@@ -12,6 +12,7 @@ com.author 					= Gaurav Jain
 com.authorUrl 				= gaurav-jain.in
 com.authorEmail 			= gaurav.jain028@gmail.com
 com.creationDate 			= 21 May 2013
+com.build.version			= 1.0.0
 com.license 				= GNU GPL 3
 com.description 			= Joomla Component Builder
 com.entities				= invoice,transaction

@@ -5,7 +5,7 @@
  * @license		GNU/GPL, see LICENSE.php
  * @package 	@prefix_constant@
  * @subpackage	Front-end
- * @contact		team@readybytes.in
+ * @contact		@authorEmail@
  */
 
 // no direct access

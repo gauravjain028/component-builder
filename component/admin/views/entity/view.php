@@ -5,7 +5,7 @@
 * @license		GNU/GPL, see LICENSE.php
 * @package 		@prefix_constant@
 * @subpackage	Back-end
-* @contact		team@readybytes.in
+* @contact		@authorEmail@
 */
 
 // no direct access
@@ -20,7 +20,7 @@ if(!defined( '_JEXEC' )){
 class @prefix@AdminBaseView@entity@ extends @prefix@View
 {	
 	/**
-	 * @var @prefix@HelperInvoice
+	 * @var @prefix@Helper@entity@
 	 */
 	public $_helper = null;	
 }
